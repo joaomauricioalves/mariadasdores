@@ -8,7 +8,7 @@ A ansiedade tomou conta e ela gostaria que você a ajudasse a entender como faze
 
 <a href="https://github.com/joaomauricioalves/mariadasdores/archive/refs/heads/main.zip">Baixar Arquivos Zipados</a>
 
-Ela lembrou você de algumas dicas. 
+Ela lembrou você de algumas dicas:
 
 * Usar as Formas Normais, claro que dentro da necessidade, FN1, FN2 e FN3.
 * Também lembrou do uso do comando COPY para iniciar o processo!
